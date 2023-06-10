@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Color Flipper",
+    "githubLink": "https://github.com/MORVWY/color-flipper",
+    "websiteLink": "https://morvwy.github.io/color-flipper/",
+    "projectImage": "../assets/images/portfolio/bgs/pet-projects/color-flipper.png"
+  },
+  {
+    "id": 2,
+    "title": "Solar System Planets",
+    "githubLink": "https://github.com/MORVWY/planets",
+    "websiteLink": "https://morvwy.github.io/planets/",
+    "projectImage": "../assets/images/portfolio/bgs/pet-projects/planets.png"
+  },
+  {
+    "id": 3,
+    "title": "Bored Apes | LP",
+    "githubLink": "https://github.com/MORVWY/bored-apes",
+    "websiteLink": "https://morvwy.github.io/bored-apes/",
+    "projectImage": "../assets/images/portfolio/bgs/pet-projects/bored-apes.png"
+  },
+  {
+    "id": 4,
+    "title": "NFT | LP",
+    "githubLink": "https://github.com/MORVWY/nft-lp",
+    "websiteLink": "https://morvwy.github.io/nft-lp/",
+    "projectImage": "../assets/images/portfolio/bgs/pet-projects/nft-lp.png"
+  },
+  {
+    "id": 5,
+    "title": "Todo List",
+    "githubLink": "https://github.com/MORVWY/Todo-list",
+    "websiteLink": "https://morvwy.github.io/Todo-list/",
+    "projectImage": "../assets/images/portfolio/bgs/pet-projects/todo-list.png"
+  },
+  {
+    "id": 6,
+    "title": "Weather App",
+    "githubLink": "https://github.com/MORVWY/weather-app",
+    "websiteLink": "https://morvwy.github.io/weather-app/",
+    "projectImage": "../assets/images/portfolio/bgs/pet-projects/weather-app.png"
+  },
+  {
+    "id": 7,
+    "title": "GitHub User Profile",
+    "githubLink": "https://github.com/MORVWY/github-users",
+    "websiteLink": "https://morvwy.github.io/github-users/",
+    "projectImage": "../assets/images/portfolio/bgs/pet-projects/github-users.png"
+  },
+  {
+    "id": 8,
+    "title": "Password Generator",
+    "githubLink": "https://github.com/MORVWY/password-generator",
+    "websiteLink": "https://morvwy.github.io/password-generator/",
+    "projectImage": "../assets/images/portfolio/bgs/pet-projects/password-generator.png"
+  }
+]
